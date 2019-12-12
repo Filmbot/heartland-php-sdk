@@ -1,10 +1,11 @@
 {
-  "name": "globalpayments/php-sdk",
+  "name": "filmbot/heartland-php-sdk",
   "description": "PHP SDK for processing payments with Global Payments, including Heartland Payment Systems and Realex Payments",
   "keywords": [
   ],
   "homepage": "https://developer.heartlandpaymentsystems.com/documentation",
   "license": "GPL-2.0-or-later",
+  "version": "1.0",
   "authors": [
     {
       "name": "Heartland Payment Systems"
